@@ -1,4 +1,5 @@
 resource "azurerm_resource_group""myrg"{
 name="gopal11"
-location="eastus11"
+location="eastus"
 }
+
